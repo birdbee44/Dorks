@@ -15,10 +15,14 @@
 
 # EvoCam:
 - intitle:"EvoCam" inurl:"webcam.html"
-
+- 
 # WebcamXP:
 - intitle:"my webcamXP server!"
--  intitle:"webcamXP 5" -download
+- intitle:"webcamXP 5" -download
+- intext:"powered by webcamXP 5"
+- "powered by webcamXP" "Pro|Broadcast"
+- intitle:"my webcamXP server!" inurl:":8080"
+- intitle:"webcamXP 5" inurl:8080 'Live'
 - 
 # MOBOTIX:
 - inurl:/control/userimage.html
