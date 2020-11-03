@@ -18,7 +18,8 @@
 
 # WebcamXP:
 - intitle:"my webcamXP server!"
-
+-  intitle:"webcamXP 5" -download
+- 
 # MOBOTIX:
 - inurl:/control/userimage.html
 
