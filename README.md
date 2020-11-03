@@ -39,3 +39,6 @@
 
 # Sony:
 - inurl:/home/homeJ.html
+
+# LiveApplet
+- intitle:liveapplet
